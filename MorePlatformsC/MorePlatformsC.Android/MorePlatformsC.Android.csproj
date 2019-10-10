@@ -15,7 +15,6 @@
     <AndroidManifest>Properties\AndroidManifest.xml</AndroidManifest>
     <MonoAndroidResourcePrefix>Resources</MonoAndroidResourcePrefix>
     <MonoAndroidAssetsPrefix>Assets</MonoAndroidAssetsPrefix>
-    <AndroidUseLatestPlatformSdk>false</AndroidUseLatestPlatformSdk>
     <TargetFrameworkVersion>v9.0</TargetFrameworkVersion>
     <AndroidEnableSGenConcurrent>true</AndroidEnableSGenConcurrent>
     <AndroidUseAapt2>true</AndroidUseAapt2>
@@ -88,7 +87,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\MorePlatformsC\MorePlatformsC.csproj">
-      <Project>{D228DF53-3E58-442B-B8E7-64F49C2823BF}</Project>
+      <Project>{775742D0-2B8C-4305-9F44-AE75EE735A6F}</Project>
       <Name>MorePlatformsC</Name>
     </ProjectReference>
   </ItemGroup>
